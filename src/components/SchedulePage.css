@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Galindo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Galindo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Fasthand&family=Galindo&display=swap');
+
+.fasthand-regular {
+  font-family: "Fasthand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.galindo-regular {
+  font-family: "Galindo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.chelsea-market-regular {
+  font-family: "Chelsea Market", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
